@@ -1,0 +1,324 @@
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/messaging_mapper.clj,149
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest messaging-mapper-patternmessaging-mapper-pattern6,183
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/idempotent_consumer.clj,155
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest idempotent-consumer-patternidempotent-consumer-pattern6,186
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/selective_consumer.clj,153
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest selective-consumer-patternselective-consumer-pattern6,186
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/service_activator.clj,151
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest service-activator-patternservice-activator-pattern6,184
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/competing_consumers.clj,155
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest competing-consumers-patterncompeting-consumers-pattern6,188
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/transactional_consumer.clj,161
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest transactional-consumer-patterntransactional-consumer-pattern6,189
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/message_dispatcher.clj,153
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-dispatcher-patternmessage-dispatcher-pattern6,186
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/durable_subscriber.clj,153
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest durable-subscriber-patterndurable-subscriber-pattern6,187
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/messaging_gateway.clj,151
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest messaging-gateway-patternmessaging-gateway-pattern6,185
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/event_driven_consumer.clj,159
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest event-driven-consumer-patternevent-driven-consumer-pattern6,190
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_endpoints/polling_consumer.clj,149
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest polling-consumer-patternpolling-consumer-pattern6,184
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_construction/request_reply.clj,139
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest request-reply-patternrequest-reply-pattern6,176
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_construction/corellation_identifier.clj,157
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest corellation-identifier-patterncorellation-identifier-pattern6,190
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_construction/event_message.clj,139
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest event-message-patternevent-message-pattern6,176
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_construction/return_address.clj,141
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest return-address-patternreturn-address-pattern6,177
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/multicast.clj,131
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest multicast-patternmulticast-pattern6,167
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/dynamic_router.clj,141
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest dynamic-router-patterndynamic-router-pattern6,177
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/content_based_router.clj,153
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest content-based-router-patterncontent-based-router-pattern7,185
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/sampling.clj,129
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest sampling-patternsampling-pattern6,168
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/message_filter.clj,141
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest message-filter-patternmessage-filter-pattern6,179
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/load_balancer.clj,139
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest load-balancer-patternload-balancer-pattern6,178
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/throtler.clj,129
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest throtler-patternthrotler-pattern6,173
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/aggregator.clj,133
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest aggregator-patternaggregator-pattern6,175
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/splitter.clj,129
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest splitter-patternsplitter-pattern6,166
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/resequencer.clj,135
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest resequencer-patternresequencer-pattern6,176
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/receipent_list.clj,233
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest static-receipent-list-patternstatic-receipent-list-pattern6,179
+(deftest dynamic-receipent-list-patterndynamic-receipent-list-pattern25,705
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/loop.clj,121
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest loop-patternloop-pattern6,169
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/routing_slip.clj,137
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest routing-slip-patternrouting-slip-pattern6,177
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/delayer.clj,127
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest delayer-patterndelayer-pattern6,165
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/composed_message_processor.clj,165
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest composed-message-processor-patterncomposed-message-processor-pattern6,191
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_routing/scater_gather.clj,139
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest scater-gather-patternscater-gather-pattern6,178
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/message.clj,131
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-patternmessage-pattern6,174
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/message_channel.clj,147
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-channel-patternmessage-channel-pattern6,175
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/pipeline.clj,133
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest pipeline-patternpipeline-pattern6,168
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/message_router.clj,145
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-router-patternmessage-router-pattern6,174
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/message_translator.clj,153
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-translator-patternmessage-translator-pattern6,183
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/filter.clj,129
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest filter-patternfilter-pattern6,166
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_systems/message_endpoint.clj,149
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-endpoint-patternmessage-endpoint-pattern6,181
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/system_management/wire_tap.clj,127
+(ns info.kovanovic.camelclojure.systeminfo.kovanovic.camelclojure.system1,0
+(deftest wire-tap-patternwire-tap-pattern6,173
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/system_management/log.clj,117
+(ns info.kovanovic.camelclojure.systeminfo.kovanovic.camelclojure.system1,0
+(deftest log-patternlog-pattern6,168
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/system_management/detour.clj,123
+(ns info.kovanovic.camelclojure.systeminfo.kovanovic.camelclojure.system1,0
+(deftest detour-patterndetour-pattern6,171
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/test_util.clj,575
+(ns info.kovanovic.camelclojure.testinfo.kovanovic.camelclojure.test1,0
+(defn mockmock8,253
+(defn directdirect11,308
+(defn- initinit14,369
+(defn start-teststart-test19,521
+(defn stop-teststop-test23,601
+(defn publishpublish26,642
+(defn get-received-messagesget-received-messages29,765
+(defn get-received-messageget-received-message32,869
+(defn get-endpointget-endpoint35,952
+(defn send-text-messagesend-text-message38,1049
+(defn count-messagescount-messages48,1357
+(defn join-bodiesjoin-bodies51,1424
+(defn is-message-countis-message-count58,1623
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_transformation/content_filter.clj,141
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest content-filter-patterncontent-filter-pattern6,184
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_transformation/sort.clj,121
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest sort-patternsort-pattern6,174
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_transformation/claim_check.clj,135
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest claim-check-patternclaim-check-pattern6,181
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_transformation/content_enricher.clj,145
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest content-enricher-patterncontent-enricher-pattern6,186
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_transformation/validate.clj,129
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest validate-patternvalidate-pattern6,178
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/message_transformation/normalizer.clj,133
+(ns info.kovanovic.camelclojure.messageinfo.kovanovic.camelclojure.message1,0
+(deftest normalizer-patternnormalizer-pattern6,180
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_channels/guaranted_delivery.clj,153
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest guaranted-delivery-patternguaranted-delivery-pattern6,184
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_channels/message_bus.clj,139
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest message-bus-patternmessage-bus-pattern6,179
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_channels/point_to_point_channel.clj,161
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest point-to-point-channel-patternpoint-to-point-channel-pattern6,190
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_channels/publish_subscribe_channel.clj,167
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest publish-subscribe-channel-patternpublish-subscribe-channel-pattern6,191
+
+/home/vita/camel-clojure/src/test/clojure/info/kovanovic/camelclojure/messaging_channels/dead_letter_channel.clj,155
+(ns info.kovanovic.camelclojure.messaginginfo.kovanovic.camelclojure.messaging1,0
+(deftest dead-letter-channel-patterndead-letter-channel-pattern6,180
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/core.clj,185
+(ns info.kovanovic.camelclojure.coreinfo.kovanovic.camelclojure.core1,0
+(defn create-camelcreate-camel14,400
+(defn start-camelstart-camel26,762
+(defn stop-camelstop-camel33,956
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/reorder.clj,154
+(ns info.kovanovic.camelclojure.impl.reorderinfo.kovanovic.camelclojure.impl.reorder1,0
+(defn- arg-map-roarg-map-ro4,113
+(defn reorderreorder16,526
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/process.clj,150
+(ns info.kovanovic.camelclojure.impl.processinfo.kovanovic.camelclojure.impl.process1,0
+(defn processorprocessor4,88
+(defn processprocess10,189
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/aggregator.clj,222
+(ns info.kovanovic.camelclojure.impl.aggregatorinfo.kovanovic.camelclojure.impl.aggregator1,0
+(defn- aggregation-strategyaggregation-strategy6,251
+(defn- arg-map-asarg-map-as11,402
+(defn aggregatoraggregator17,673
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/pause.clj,109
+(ns info.kovanovic.camelclojure.impl.pauseinfo.kovanovic.camelclojure.impl.pause1,0
+(defn pausepause3,45
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/extract.clj,118
+(ns info.kovanovic.camelclojure.impl.extractinfo.kovanovic.camelclojure.impl.extract1,0
+(defn extractextract4,119
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/router.clj,189
+(ns info.kovanovic.camelclojure.impl.routerinfo.kovanovic.camelclojure.impl.router1,0
+(defn- add-branchadd-branch4,118
+(defn- add-branchesadd-branches7,189
+(defn routerrouter15,482
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/split.clj,142
+(ns info.kovanovic.camelclojure.impl.splitinfo.kovanovic.camelclojure.impl.split1,0
+(defn- splittersplitter5,166
+(defn splitsplit13,384
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/to.clj,144
+(ns info.kovanovic.camelclojure.impl.toinfo.kovanovic.camelclojure.impl.to1,0
+(defn- add-destinationsadd-destinations3,42
+(defn toto9,161
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/dead_letter.clj,150
+(ns info.kovanovic.camelclojure.impl.deadinfo.kovanovic.camelclojure.impl.dead1,0
+(defn- arg-maparg-map5,181
+(defn dead-letterdead-letter10,410
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/from.clj,135
+(ns info.kovanovic.camelclojure.impl.frominfo.kovanovic.camelclojure.impl.from1,0
+(defn- arg-maparg-map4,110
+(defn fromfrom8,215
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/recipient_list.clj,171
+(ns info.kovanovic.camelclojure.impl.recipientinfo.kovanovic.camelclojure.impl.recipient1,0
+(defn arg-map-rlarg-map-rl6,168
+(defn recipient-listrecipient-list12,399
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/impl/predicate.clj,125
+(ns info.kovanovic.camelclojure.impl.predicateinfo.kovanovic.camelclojure.impl.predicate1,0
+(defn predicatepredicate4,90
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/log.clj,154
+(ns info.kovanovic.camelclojure.loginfo.kovanovic.camelclojure.log1,0
+(def logging-startedlogging-started4,87
+(defn start-loggingstart-logging6,123
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/dsl.clj,579
+(ns info.kovanovic.camelclojure.dslinfo.kovanovic.camelclojure.dsl1,0
+(defmacro routeroute18,944
+(defn startstart23,1039
+(defn stopstop26,1090
+(defn createcreate29,1139
+(defn aggregatoraggregator32,1192
+(defn dead-letterdead-letter35,1257
+(defn extractextract38,1322
+(defn fromfrom41,1363
+(defn pausepause44,1414
+(defn predicatepredicate47,1459
+(defn routerrouter50,1500
+(defn processprocess53,1545
+(defn processorprocessor56,1586
+(defn splitsplit59,1627
+(defn toto62,1664
+(defn reorderreorder65,1703
+(defn recipient-listrecipient-list68,1760
+
+/home/vita/camel-clojure/src/main/clojure/info/kovanovic/camelclojure/util.clj,304
+(ns info.kovanovic.camelclojure.utilinfo.kovanovic.camelclojure.util1,0
+(defn- parse-optionsparse-options5,54
+(defn- create-options-appliercreate-options-applier24,653
+(defn apply-optionsapply-options34,1040
+(defn thirdthird38,1212
+(defn fourthfourth41,1254
+(defn arg-countarg-count45,1305

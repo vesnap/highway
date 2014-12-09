@@ -1,0 +1,65 @@
+	messaging-systems
+	OK	message-channel
+	=	message 
+	OK	pipeline
+	OK	filter
+	OK	message-router
+	OK	message-translator
+	=	message-endpoint
+
+	messaging-channels
+	OK	point-to-point-channel
+	OK	publish-subscribe-channel
+	OK	dead-letter-channel
+	=	guaranted-delivery
+	=	message-bus
+
+	message-construction
+	OK	event-message
+	TODO	request-reply
+	=	corellation-identifier
+	=	return-address
+
+	message-routing
+	OK	content-based-router
+	OK	message-filter
+	OK	dynamic-router
+	OK	receipent-list
+	OK	splitter
+	OK	aggregator
+	OK	resequencer
+	OK	composed-message-processor
+	OK	scater-gather
+	OK	routing-slip
+	OK	throtler
+	OK	sampling
+	OK	delayer
+	OK	load-balancer
+	OK	multicast
+	OK	loop
+
+message-transformation
+TODO	content-enricher
+TODO	content-filter
+TODO	claim-check
+TODO	normalizer
+TODO	sort
+TODO	validate
+
+	messaging-endpoints
+	=	messaging-mapper
+	=	event-driven-consumer
+	=	polling-consumer
+	=	competing-consumers
+	=	message-dispatcher
+	=	selective-consumer
+	=	durable-subscriber
+	=	idempotent-consumer
+	=	transactional-consumer
+	=	messaging-gateway
+	=	service-activator
+
+	system-management
+	OK	detour
+	OK	wire-tap
+	OK	log
